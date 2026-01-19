@@ -112,7 +112,6 @@ incident_summary = {
 
 ## 🏗️ Architecture
 
-```mermaid
 graph TB
     A[Daily Schedule Trigger] --> B[Workflow Configuration]
 
